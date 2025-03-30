@@ -1,4 +1,4 @@
-# GemPass---Offline-Password-Manager
+# GemPass - An Offline Password Manager
 This is an offline password generator tool in which you can generate and save passwords. 
 
 Password Manager: This is a GUI based random password generator and saver program. This program can generate 8 and 16 Digit passwords with Alphabets (Lower and Upper case), Symbols and Numbers so, it will be almost impossible to hack a guy who's using this password. The passwords are generated using a very random algorithm and its impossible to guess it or get the same password again using the program. The program uses Random class and only the person who created the random class can guess the password and that's also almost equal to impossible. You can check the saved passwords whenever required.
@@ -24,11 +24,11 @@ Check screenshots(v1):
 ![Screenshot_Eclipse_20230313205104](https://user-images.githubusercontent.com/119154806/224747679-3c626c6a-f5bb-4867-b840-0779db3a361a.png)
 
 
-Code: I've uploaded the JAVA file of this program named "MyFrame.java" and "LoginPage.java", simply use these files or open these files and copy paste the code. You can create instance of any file inside main method but creating instance of LoginPage will make the program more secure.
+Code: I've uploaded the Java file of this program named "MyFrame.java" and "LoginPage.java", simply use these files or open these files and copy paste the code. You can create instance of any file inside main method but creating instance of LoginPage will make the program more secure.
 
 Details about code:
 * The code is self explanatory.
-* Contact me on Telegram @SOUL_AYU if you need any help.
+* Contact me on [WhatsApp](https://wa.link/wsov41) if you need any help.
 
 Issues(v1):
 * Sometimes program misses to use Symbols or Numbers in 8 Digit pass (Solution: Generate pass again).
